@@ -78,7 +78,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 Please report any issues or suggestions on the [Issues](https://github.com/hideeLaalaa/renderswitch/issues) page.
 
-## Author
+## Author(s)
 
 - [Idris](https://github.com/hideeLaalaa)
 - [Samad](https://github.com/DOriginalSamxie)
