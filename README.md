@@ -72,6 +72,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
+- [Samad](https://github.com/DOriginalSamxie)
+
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
 ## Issues
@@ -81,6 +83,7 @@ Please report any issues or suggestions on the [Issues](https://github.com/hidee
 ## Author
 
 - [Idris](https://github.com/hideeLaalaa)
+- [Samad](https://github.com/DOriginalSamxie)
 
 ## Version History
 
